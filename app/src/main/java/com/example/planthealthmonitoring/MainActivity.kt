@@ -31,6 +31,7 @@ class MainActivity : AppCompatActivity() {
     private lateinit var button: Button
     private lateinit var tvOutput: TextView
     private lateinit var desc: TextView
+    private lateinit var sol: TextView
     private val GALLERY_REQUEST_CODE = 123
 
 
@@ -44,6 +45,7 @@ class MainActivity : AppCompatActivity() {
         button = binding.btnCaptureImage
         tvOutput = binding.tvOutput
         desc = binding.description
+        sol = binding.solution
         val buttonLoad = binding.btnLoadImage
 
         button.setOnClickListener {
@@ -145,38 +147,70 @@ class MainActivity : AppCompatActivity() {
         //setting ouput text
         tvOutput.text = highProbabilityOutput.label
         Log.i("TAG", "outputGenerator: $highProbabilityOutput")
-        if(tvOutput.text == "Tomato Healthy")
+        if(tvOutput.text == "Tomato Healthy") {
             desc.text = getString(R.string.desc1)
-        else if(tvOutput.text == "Tomato Septoria Leaf Spot")
+            sol.text = getString(R.string.sol1)
+        }
+        else if(tvOutput.text == "Tomato Septoria Leaf Spot") {
             desc.text = getString(R.string.desc2)
-        else if(tvOutput.text == "Tomato Bacterial Spot")
+            sol.text = getString(R.string.sol2)
+        }
+        else if(tvOutput.text == "Tomato Bacterial Spot") {
             desc.text = getString(R.string.desc3)
-        else if(tvOutput.text == "Tomato Blight")
+            sol.text = getString(R.string.sol3)
+        }
+        else if(tvOutput.text == "Tomato Blight") {
             desc.text = getString(R.string.desc4)
-        else if(tvOutput.text == "Cabbage Healthy")
+            sol.text = getString(R.string.sol4)
+        }
+        else if(tvOutput.text == "Cabbage Healthy") {
             desc.text = getString(R.string.desc5)
-        else if(tvOutput.text == "Tomato Spider Mite")
+            sol.text = getString(R.string.sol5)
+        }
+        else if(tvOutput.text == "Tomato Spider Mite") {
             desc.text = getString(R.string.desc6)
-        else if(tvOutput.text == "Tomato Leaf Mold")
+            sol.text = getString(R.string.sol6)
+        }
+        else if(tvOutput.text == "Tomato Leaf Mold") {
             desc.text = getString(R.string.desc7)
-        else if(tvOutput.text == "Tomato Yellow Leaf Curl Virus")
+            sol.text = getString(R.string.sol7)
+        }
+        else if(tvOutput.text == "Tomato Yellow Leaf Curl Virus") {
             desc.text = getString(R.string.desc8)
-        else if(tvOutput.text == "Soy Frogeye LeafSpot")
+            sol.text = getString(R.string.sol8)
+        }
+        else if(tvOutput.text == "Soy Frogeye LeafSpot") {
             desc.text = getString(R.string.desc9)
-        else if(tvOutput.text == "Soy Downy Mildew")
+            sol.text = getString(R.string.sol9)
+        }
+        else if(tvOutput.text == "Soy Downy Mildew") {
             desc.text = getString(R.string.desc10)
-        else if(tvOutput.text == "Maize Ravi Corn Rust")
+            sol.text = getString(R.string.sol10)
+        }
+        else if(tvOutput.text == "Maize Ravi Corn Rust") {
             desc.text = getString(R.string.desc11)
-        else if(tvOutput.text == "Maize Healthy")
+            sol.text = getString(R.string.sol11)
+        }
+        else if(tvOutput.text == "Maize Healthy") {
             desc.text = getString(R.string.desc12)
-        else if(tvOutput.text == "Maize Grey Leaf Spot")
+            sol.text = getString(R.string.sol12)
+        }
+        else if(tvOutput.text == "Maize Grey Leaf Spot") {
             desc.text = getString(R.string.desc13)
-        else if(tvOutput.text == "Maize Lethal Necrosis")
+            sol.text = getString(R.string.sol13)
+        }
+        else if(tvOutput.text == "Maize Lethal Necrosis") {
             desc.text = getString(R.string.desc14)
-        else if(tvOutput.text == "Soy Healthy")
+            sol.text = getString(R.string.sol14)
+        }
+        else if(tvOutput.text == "Soy Healthy") {
             desc.text = getString(R.string.desc15)
-        else if(tvOutput.text == "Cabbage Black Rot")
+            sol.text = getString(R.string.sol15)
+        }
+        else if(tvOutput.text == "Cabbage Black Rot") {
             desc.text = getString(R.string.desc16)
+            sol.text = getString(R.string.sol16)
+        }
 
     }
 

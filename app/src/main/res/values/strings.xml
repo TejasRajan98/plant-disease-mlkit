@@ -16,5 +16,21 @@
     <string name="desc14">Maize lethal necrosis (MLN) is a disease of maize caused by coinfection of maize with maize chlorotic mottle virus (MCMV) and one of several viruses from the Potyviridae, such as sugarcane mosaic virus, maize dwarf mosaic virus, Johnsongrass mosaic virus or wheat streak mosaic virus.</string>
     <string name="desc15">This is a healthy soy. No disease detected.</string>
     <string name="desc16">Black rot, caused by the bacterium Xanthomonas campestris pv. campestris (Xcc), is a significant disease of cabbage and other crucifer crops worldwide. The disease was first described in New York on turnips in 1893, and has been a common problem for growers for over 100 years.</string>
+    <string name="sol1">This is healthy plant.</string>
+    <string name="sol2">1. Pinch off leaves with leaf spots and bury them in the compost pile. \n2. It is okay to remove up to a third of the plant\'s leaves if you catch the disease early. \n3. Do not remove more than a third of the plant\'s leaves. \n4. Keep leaves dry to reduce spreading the disease.</string>
+    <string name="sol3">A plant with bacterial spot cannot be cured. Remove symptomatic plants from the field or greenhouse to prevent the spread of bacteria to healthy plants. Burn, bury or hot compost the affected plants and DO NOT eat symptomatic fruit.</string>
+    <string name="sol4">1. Remove infected plant portions. The most essential aspect of treating blight is to remove and destroy any affected area of the tomato plant. \n2. Use fungicide. Utilizing a fungicide is one key way you can address your blight problem. \n3. Add mulch to the soil.</string>
+    <string name="sol5">This is healthy plant.</string>
+    <string name="sol6">Spray insecticidal soap on tomato plants to kill spider mites. Purchase a commercially-made insecticidal soap at a garden centre or hardware store or make your own. Spray the soap onto your tomato plants, making sure to focus the spray on the undersides of the leaves where spider mites live.</string>
+    <string name="sol7">An apple-cider and vinegar mix is believed to treat the mold effectively. Corn and garlic spray can also be used to prevent fungi outbreaks before they even occur. There is also a milk-based spray that is touted as an all-natural, helpful cure for leaf mold.</string>
+    <string name="sol8">Use a neonicotinoid insecticide, such as dinotefuran (Venom) imidacloprid (AdmirePro, Alias, Nuprid, Widow, and others) or thiamethoxam (Platinum), as a soil application or through the drip irrigation system at transplanting of tomatoes or peppers.</string>
+    <string name="sol9">To manage frogeye leaf spot, use resistant soybean varieties and pathogen-free seed. Rotate soybeans with a non-bean crop. Bury infested residue where feasible and where disease is severe. Foliar and seed treatment fungicides may provide some control.</string>
+    <string name="sol10">Select resistant soybean varieties and use appropriate seed treatments. Bury infested residue where feasible and where disease has been severe. Rotate soybeans.</string>
+    <string name="sol11">The application of fungicides can be beneficial when used on susceptible varieties. Apply a foliar fungicide early in the season if rust is bound to spread.</string>
+    <string name="sol12">This is healthy plant.</string>
+    <string name="sol13">Management strategies for gray leaf spot include tillage, crop rotation and planting resistant hybrids. Fungicides may be needed to prevent significant loss when plants are infected early and environmental conditions favor disease.</string>
+    <string name="sol14">The best approach for the management of MLND is to employ integrated pest management practices encompassing cultural control such as closed season, crop rotation and crop diversification, vector control using seed treatment followed by foliar sprays, and host-plant resistance.</string>
+    <string name="sol15">This is healthy plant.</string>
+    <string name="sol16">1. Use clean, pathogen-free seed. \n2. Use a 2-year rotation out of crucifers in production fields. \n3. Use a 3-year rotation in the transplant bed. \n4. Contaminated seed can be cleaned by hot water seed treatment of 122°F for 30 min. \n5. Control cruciferous weeds and insect pests.</string>
 
 </resources>
