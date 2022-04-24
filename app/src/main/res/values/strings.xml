@@ -1,3 +1,20 @@
 <resources>
     <string name="app_name">Plant Health Monitoring</string>
+    <string name="desc1">This is a healthy tomato. No disease detected.</string>
+    <string name="desc2">Septoria leaf spot is caused by a fungus, Septoria lycopersici. It is one of the most destructive diseases of tomato foliage and is particularly severe in areas where wet, humid weather persists for extended periods. Septoria leaf spot usually appears on the lower leaves after the first fruit sets.</string>
+    <string name="desc3">Bacterial spot of tomato is caused by Xanthomonas vesicatoria, Xanthomonas euvesicatoria, Xanthomonas gardneri, and Xanthomonas perforans. These bacterial pathogens can be introduced into a garden on contaminated seed and transplants, which may or may not show symptoms.</string>
+    <string name="desc4">Tomato blight refers to a family of diseases caused by fungus-like organisms that spread through potato and tomato foliage, particularly during wet weather. Blight spreads quickly, causing leaves to discolor, rot and collapse.</string>
+    <string name="desc5">This is a healthy cabbage. No disease detected.</string>
+    <string name="desc6">The tomato red spider mites are pale-orange to red and feed on the underside of leaves. They cannot be seen easily with the naked eye. Feeding damage caused by sucking sap appears as many shiny pale yellow marks on the top of the tomato leaf (see lower photo). Eventually the leaves turn brown and die or fall off.</string>
+    <string name="desc7">Leaf mold of tomato is caused by pathogen Passalora fulva. It is found throughout the world, predominantly on tomatoes grown where the relative humidity is high, particularly in plastic greenhouses. Occasionally, if conditions are just right, leaf mold of tomato can be a problem on field grown fruit.</string>
+    <string name="desc8">omato yellow leaf curl virus is a DNA virus from the genus Begomovirus and the family Geminiviridae. TYLCV causes the most destructive disease of tomato, and it can be found in tropical and subtropical regions causing severe economic losses.</string>
+    <string name="desc9">Circular to angular spots on leaves, which resemble the eyes of frogs, begin as dark, water-soaked spots and develop into brown spots. Frogeye leaf spot, caused by the fungus Cerospora sojina, is a common soybean foliar disease in the South.</string>
+    <string name="desc10">Downy Mildew is a common fungal leaf disease of soybean that occurs wherever soybeans are grown, especially when weather conditions are rainy and humid. The downy mildew pathogen, Peronospora manshurica, survives in crop residue and on the seed surface.</string>
+    <string name="desc11">The disease is caused by the fungus Puccinia sorghi. The fungus overwinters in an alternate host (a species of Oxalis) and releases spores during the spring. The spores can be transported over great distances by winds and rain.</string>
+    <string name="desc12">This is a healthy maize. No disease detected.</string>
+    <string name="desc13">Grey leaf spot (GLS) of maize is caused by the fungus Cercospora zeae-maydis. The disease is now recognised as one of the most significant yield-limiting diseases of maize worldwide and certainly in the province of KwaZulu-Natal </string>
+    <string name="desc14">Maize lethal necrosis (MLN) is a disease of maize caused by coinfection of maize with maize chlorotic mottle virus (MCMV) and one of several viruses from the Potyviridae, such as sugarcane mosaic virus, maize dwarf mosaic virus, Johnsongrass mosaic virus or wheat streak mosaic virus.</string>
+    <string name="desc15">This is a healthy soy. No disease detected.</string>
+    <string name="desc16">Black rot, caused by the bacterium Xanthomonas campestris pv. campestris (Xcc), is a significant disease of cabbage and other crucifer crops worldwide. The disease was first described in New York on turnips in 1893, and has been a common problem for growers for over 100 years.</string>
+
 </resources>

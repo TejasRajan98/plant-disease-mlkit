@@ -57,12 +57,37 @@
     <TextView
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
+        android:id="@+id/result"
         android:text="Click on the result text to search on Google"
         app:layout_constraintTop_toBottomOf="@id/textview"
         android:layout_marginTop="8dp"
         android:layout_marginStart="36dp"
         app:layout_constraintStart_toStartOf="parent"
         android:textSize="13sp"/>
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:id="@+id/desc"
+        android:text="Description: "
+        android:textSize="21sp"
+        android:layout_marginTop="24dp"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@id/result"
+        android:layout_marginStart="36dp"
+        android:textColor="@android:color/black"/>
+
+    <TextView
+        android:id="@+id/description"
+        android:layout_width="0dp"
+        android:layout_height="wrap_content"
+        android:layout_marginLeft="36dp"
+        android:layout_marginTop="8dp"
+        android:layout_marginRight="36dp"
+        android:textSize="13sp"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@id/desc" />
 
     <androidx.constraintlayout.widget.Guideline
         android:layout_width="wrap_content"
